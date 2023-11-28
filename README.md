@@ -2,6 +2,8 @@
 
 ![a photo of a wooden standing shelf, holding four plastic crates, with a plant on top](IMG_9039.JPG)
 
+fits Hay's "recycled color crates"
+
 ![photo of an empy wooden standing shelf](IMG_9041.JPG)
 
 ![photo of an empy wooden standing shelf](IMG_9044.JPG)
