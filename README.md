@@ -2,7 +2,7 @@
 
 ![a photo of a wooden standing shelf, holding four plastic crates, with a plant on top](IMG_9039.JPG)
 
-fits Hay's "recycled color crates"
+fits Hay's "recycled color crates", cubby dimentions are about 24"x11"x16" each
 
 ![photo of an empy wooden standing shelf](IMG_9041.JPG)
 
