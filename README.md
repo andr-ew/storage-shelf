@@ -1,9 +1,14 @@
 # storage-shelf
 
-![IMG_9039.JPG](a photo of a wooden standing shelf, holding four plastic crates, with a plant on top)
+![a photo of a wooden standing shelf, holding four plastic crates, with a plant on top](IMG_9039.JPG)
 
-![IMG_9041.JPG](photo of an empy wooden standing shelf)
+![photo of an empy wooden standing shelf](IMG_9041.JPG)
 
-![IMG_9044.JPG](photo of an empy wooden standing shelf)
+![photo of an empy wooden standing shelf](IMG_9044.JPG)
 
-![IMG_9046.JPG](photo of the top corner of the wooden standing shelf)
+
+## construction
+
+![blueprints for the standing shelf, showing measurements in inches](plans.png)
+
+![photo of the top corner of the wooden standing shelf](IMG_9046.JPG)
